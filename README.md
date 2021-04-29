@@ -13,5 +13,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Doctor Who and SKINS fan
 
-![Brendo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonmm&theme=dark&count_private=true&show_icons=true&title_color=6D60F0&icon_color=6D60F0&line_height=20&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendonmm&theme=dark&layout=compact&show_icons=true&title_color=6D60F0&icon_color=6D60F0&border_radius=10)
+
+![Brendo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonmm&theme=dark&count_private=true&show_icons=true&title_color=6D60F0&icon_color=6D60F0&line_height=20&border_radius=10)
