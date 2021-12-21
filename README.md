@@ -5,7 +5,7 @@
 
 -->
 
-- 🔭 I’m currently working on @egratitude-devs
+- 🔭 I’m currently working on Float Health Brasil
 - 🌱 I’m currently learning Node.js, UX and A11y
 - 👯 I’m looking to collaborate on UX best practices projects
 - 🤔 I’m looking for help with A11y+JS
