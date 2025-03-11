@@ -6,8 +6,7 @@
 -->
 
 - 🔭 I’m currently working on Float Health Brasil
-- 🌱 I’m currently learning Node.js, UX and A11y
-- 👯 I’m looking to collaborate on UX best practices projects
-- 💬 Ask me about Front-end (HTML Semantic, CSS3, and ES)
+- 👯 I’m looking to collaborate on UX and A11y best practices projects
+- 💬 Ask me about Front-end (HTML Semantic, CSS3, and ES) and UX
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Doctor Who and SKINS fan
